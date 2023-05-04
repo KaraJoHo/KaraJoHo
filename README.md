@@ -25,7 +25,7 @@ I am currently in the backend software engineering program at the Turing School 
 ![Graph QL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- :computer: <strong>New technologies I have experience with and continuing to learn:</strong>
+- :computer: <strong>New technologies I have experience with and continue to learn:</strong>
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
