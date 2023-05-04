@@ -1,7 +1,8 @@
-### Hi there 👋
+<div align="center"> 
+  
+### Hi there 👋 
+#### Welcome to my github! I'm Kara, here's a little about me...<br>
 I am currently in the backend software engineering program at the Turing School of Software and Design. I have been working with Ruby and Ruby on Rails, and starting to venture into new tech territories.
-- :books: New things I am learning include Amazon Web Service and Google Cloud Platform
-- :mailbox_with_mail: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/81012911-91208/)
 
 <hr>
 
@@ -16,6 +17,27 @@ I am currently in the backend software engineering program at the Turing School 
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+
+<hr> 
+ </div>
+
+- :books: <strong>New things I am learning include:</strong> 
+![Graph QL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- :computer: <strong>New technologies I have experience with and I am continuing to learn:</strong>
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+- :mailbox_with_mail: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/81012911-91208/)
+<hr> 
+
+
+## Stats 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KaraJoHo&bg_color=30,824AA6,98D8D9&title_color=fff&text_color=fff)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaraJoHo&theme=rose_pine)<br>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraJoHo&hide_progress=true&bg_color=30,913AC3,F1F148&title_color=fff&text_color=fff)
+
 
 
 <!--
