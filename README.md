@@ -2,7 +2,7 @@
   
 ### Hi there 👋 
 #### Welcome to my github! I'm Kara, here's a little about me...<br>
-I am currently in the backend software engineering program at the Turing School of Software and Design. I have been working with Ruby and Ruby on Rails, and starting to venture into new tech territories.
+I recently graduated from the Turing School of Software and Design's backend software engineering program. I have been working with Ruby and Ruby on Rails, and starting to venture into new tech territories.
 
 <hr>
 
