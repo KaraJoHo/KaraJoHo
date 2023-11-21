@@ -35,6 +35,7 @@ I recently graduated from the Turing School of Software and Design's backend sof
 [Sweater Weather](https://github.com/KaraJoHo/sweater_weather)\
 [Tea Box](https://github.com/KaraJoHo/tea_box)
 
+- Check out my [Portfolio](https://terminal.turing.edu/profiles/1797)
 - :mailbox_with_mail: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/81012911-91208/)
 <hr> 
 
