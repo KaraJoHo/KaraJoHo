@@ -32,6 +32,7 @@ I recently graduated from the Turing School of Software and Design's backend sof
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - <strong>Recent Projects:</strong>\
+[Cosmic Atlas](https://github.com/Cosmic-Atlas)\
 [Sweater Weather](https://github.com/KaraJoHo/sweater_weather)\
 [Tea Box](https://github.com/KaraJoHo/tea_box)
 
