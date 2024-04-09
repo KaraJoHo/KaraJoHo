@@ -2,7 +2,7 @@
   
 ### Hi there 👋 
 #### Welcome to my github! I'm Kara, here's a little about me...<br>
-I recently graduated from the Turing School of Software and Design's backend software engineering program. I have been working with Ruby and Ruby on Rails, and starting to venture into new tech territories.
+I graduated from the Turing School of Software and Design's backend software engineering program. I have been working with Ruby and Ruby on Rails, and starting to venture into new tech territories. Currently working on my personal project Cosmic Atlas!
 
 <hr>
 
